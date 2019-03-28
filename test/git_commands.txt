@@ -1,0 +1,155 @@
+    1  clear
+    2  sudo apt-get net-tools
+    3  sudo apt-get net-tool
+    4  sudo su
+    5  sudo su
+    6  ifconfig -a
+    7  clear
+    8  init 6
+    9  sudo su
+   10  ifconfig
+   11  ping www.google.com
+   12  init 0
+   13  cd /home/amritapa/Desktop/Python
+   14  python test.py
+   15  jjunn inn j j  j 
+   16  b j jnkjn
+   17  mkmk,k, k kkkmkmm'nnik jn 
+   18  jjnj nun
+   19  python test.py
+   20  cd Desktop/Python/
+   21  python test.py 
+   22  cd desktop/python
+   23  cd desktop\python
+   24  python test.py
+   25  cd desktop\python
+   26  cd Desktop\Python
+   27  cd Desktop/Python
+   28  python test.py
+   29  cd Desktop
+   30  cd Python
+   31  python text.py
+   32  python test.py
+   33  cd Desktop
+   34  cd Python
+   35  python test.py
+   36  cd Desktop
+   37  cd Python
+   38  python test.py
+   39  cd Desktop
+   40  cd Python
+   41  python test.py
+   42  cd Desktop
+   43  cd Python
+   44  python test.py
+   45  cd Desktop
+   46  cd Python
+   47  python test.py
+   48  cd Desktop
+   49  cd Python
+   50  python test.py
+   51  cd Desktop
+   52  cd Python
+   53  python test.py
+   54  python file.py
+   55  python test.py 
+   56  python two_three.py 
+   57  cd Desktop
+   58  cd Python
+   59  python two_three.py 
+   60  cd Desktop
+   61  cd Python
+   62  python two_three.py 
+   63  python palindrome.py 
+   64  cd Python
+   65  cd Desktop
+   66  cd Python
+   67  python palindrome.py
+   68  su
+   69  cpwd
+   70  pwd
+   71  cd ..
+   72  cd  ~
+   73  pwd
+   74  su
+   75  su
+   76  free -h
+   77  ll /tmp/
+   78  free -h
+   79  exit
+   80  cd Desktop
+   81  cd Python
+   82  python smallest_divisor.py
+   83  cd Desktop
+   84  cd Python
+   85  python smallest_divisor.py
+   86  python sum_dig.py
+   87  python odd_range.py
+   88  python possible_combos.py
+   89  python qnr.py
+   90  python rev.py
+   91  python o_e_p.py
+   92  python pf.py
+   93  python ques.py
+   94  python eg.py
+   95  python n.py
+   96  n
+   97  python n.py
+   98  python
+   99  cd Desktop
+  100  cd Python
+  101  python n.py
+  102  python n.py\
+  103  python n.py
+  104  python
+  105  python3 n.py
+  106  virtua;env
+  107  virtualenv
+  108  sudo apt install virtualenv
+  109  virtualenv py3 --python=python3
+  110  ls
+  111  source py3/bin/activate
+  112  pip install ipython
+  113  ipython
+  114  python n.py 
+  115  python n.py \
+  116  python n.py
+  117  python ques.py
+  118  python duplicates.py
+  119  cd ..
+  120  ls
+  121  mkdir test
+  122  cd test/
+  123  ls
+  124  git clone https://github.com/amrit4/Amrit.git
+  125  ls
+  126  cd Amrit
+  127  ls
+  128  cat odd_range.py
+  129  git log
+  130  git status
+  131  git pull origin master
+  132  cd ..
+  133  ls
+  134  vim .git/config
+  135  cd Amrit/
+  136  git status
+  137  vim .git/config 
+  138  git pull origin master
+  139  vim duplicates.py 
+  140  git status
+  141  git stash
+  142  git status
+  143  git checkout
+  144  git checkout -b Rohan
+  145  vim duplicates.py 
+  146  git status
+  147  git add duplicates.py 
+  148  git commit
+  149  git commit -m "New Branch"
+  150  git push origin Rohan
+  151  git checkout master
+  152  git status
+  153  git pull origin master
+  154  history
+  155  history >> git_commands.txt
